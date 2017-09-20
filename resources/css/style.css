@@ -1,0 +1,70 @@
+body {
+  font-family: Helvetica;
+  background-color: white;
+  text-align: center;
+  max-width: 2000px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -5%;
+  margin-top: -5%;
+}
+
+#body{
+  line-height: 90%;
+}
+
+
+.buttons {
+  margin-left: auto;
+  margin-right: 2%;
+  margin-top: -1%;
+}
+
+a:visited{
+  color: white;
+}
+
+ol {
+  color: black;
+}
+
+.buttons {
+  font-size: 18px;
+}
+
+.design {
+  background-image: url("file://C:/Users/gioja/git_practice/broadway/resources/images/4.png");
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 70px
+}
+
+h5 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h6 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+.line {
+  line-height: 0;
+  margin-bottom: -1.5%
+}

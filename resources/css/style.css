@@ -32,7 +32,7 @@ ol {
 }
 
 .design {
-  background-image: url("file://C:/Users/gioja/git_practice/broadway/resources/images/4.png");
+  background-image: url("../images/4.png");
   background-repeat: no-repeat;
   text-align: center;
   background-size: cover;
